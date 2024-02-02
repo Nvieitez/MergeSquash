@@ -25,3 +25,7 @@ Ambos hacen pull de los cambios y se hace un update de la rama local, Finalmente
 ## Hacer Merge desde el repositorio
 
 Ambos hacen merge de sus ramas en el repositorio para que quede finalmente unido a la main
+
+## Resultado
+
+![Resultado](ProyectoMergeSwach/src/Resultado)
